@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.env/
+
+# Models & datasets (IMPORTANT)
+*.pt
+*.pth
+*.bin
+*.onnx
+*.h5
+*.zip
+*.tar
+*.gz
+*.csv
+data/
+models/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+# Secrets
+API_KEY/
+*.key
+*.env
