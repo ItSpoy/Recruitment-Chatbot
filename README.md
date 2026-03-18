@@ -47,5 +47,5 @@ This chatbot module is designed to integrate seamlessly with:
 
 ## 👨‍💻 Author
 
-Spoy  
+Boujebha Souhaiel  
 Final Internship Project – Recruitment Management System
